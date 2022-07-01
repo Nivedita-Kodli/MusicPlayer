@@ -1,0 +1,4 @@
+const token = {
+    id: "Bearer BQAYgJZJXGOyKcyBBqNL7cUhvP19rkt2GdF9Ef_nK4k99sNsZtCa_5olha6VNJCUpYMtfxNpj1Vw8S6CV5qjJN5r8HbIzSwS53bEruFzVj-pzDI30utOjiHjrWA-L-RaFZpfwy2t1NYmCc0C4Mr6unPvsxYp0i7quwnZ_Y_vOu4rWNO9ownqlp_AdkczkaSqRaQOjKw3uLPOVcJUw4wg188"
+};
+export default token
